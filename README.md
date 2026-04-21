@@ -1,2 +1,0 @@
-# C-programme
-solve problem 
